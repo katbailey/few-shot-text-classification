@@ -1,0 +1,3 @@
+[submodule "SIF"]
+	path = SIF
+	url = https://github.com/PrincetonML/SIF.git
